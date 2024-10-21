@@ -1,7 +1,7 @@
 # NetAdmin-Automation-Scripts
 Scripts to automate some typical network administration tasks. 
 
-### NOTE NOTE NOTE ###
+### NOTE ###
 * Please be careful if you hardcode credentials in a script. It is wise (If not best practice) to use an external secret management tool - espeically in a production environment.
 
 * For these scripts to work, SSH must be enabled on the switch and that the IP address the request is coming from has the permission to connect via SSH. 
