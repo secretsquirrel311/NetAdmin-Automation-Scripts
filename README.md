@@ -2,6 +2,8 @@
 Scripts to automate some typical network administration tasks. 
 
 ### NOTE ###
+* Any information (code, articles, Proof of Concept, etc) contained wihtin this repo are Strictly for educational purposes or AUTHORIZED professional use cases. I do not condone or authorize any and all information contained here to be used for illiict activity
+  
 * Please be careful if you hardcode credentials in a script. It is wise (If not best practice) to use an external secret management tool - espeically in a production environment.
 
 * For these scripts to work, SSH must be enabled on the switch and that the IP address the request is coming from has the permission to connect via SSH. 
